@@ -1,0 +1,44 @@
+# Generic
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aar
+*.jks
+*.keystore
+captures/
+.externalNativeBuild/
+.cxx/
+*.stackdump
+
+# Environment specific
+tmpclaude-*
+nul
