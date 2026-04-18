@@ -67,4 +67,3 @@ Aura is built with a **Zero-Hop Native Edge Architecture** to ensure peak perfor
 * **Asik Kani** - *Lead Android & AI Engineer*
 
 ---
-*Built for the **Orion Hackathon 2026**.*
